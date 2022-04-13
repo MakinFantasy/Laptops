@@ -1,0 +1,75 @@
+# Best laptops under 160k RUB
+
+ ## Best 2-in-1 laptops:
+ <li> Asus Zenbook Flip S 13 OLED </li>
+ <p> Best display, good perfomance </p>
+ <li> Hp Spwcter x360 </li>
+ <p> Best desing and mobility, good perfomance </p>
+
+
+ ## Best ultrabooks:
+ <li> Asus Zenbook S </li>
+ <p> Really good screen, but intel core i5 on board </p>
+ <li> Huawei Matebook X Pro </li>
+ <p> Good screen, good perfomance, pretty design but high cost </p>
+ <li> Honor Magicbook 14 </li>
+ <p> Good design and mobitily, good perfomance with not high cost </p>
+ <li> Asus Zenbook duo 14 </li>
+ <p> Good perfomance, two screens, not that high cost </p>
+ <li> Apple Macbook pro 13 </li>
+ <p> Best ultrabook perfomance, really good screen, desing and mobility are on the highest level, but at thath price only 256 gb ssd storage </p>
+ 
+
+
+ ## Best gaming laptops:
+ <li> Asus ROG Zephyrus G14 AniMe Matrix </li>
+ <p> Mobility, desing, screen are on the highset level, but trx 3050 on board </p>
+ <li> Acer Swift X </li>
+ <p> Smth like previous laptop, but costs a little bit more) </p>\
+ <li> Lenovo Legion 5 </li>
+ <p> 165 GHz; 15,6"; perfect for modifying, good desing, and even rtx 3060 at that price. But, it weights a lot </p>
+
+
+ ## Ultrabooks, but with another name:
+ <h3>Keyboard and touchpad are the best. Design and perfomance are on really high level, but not very bright screens </h3>
+ <ul>
+ <li>ThinkPad L13 Gen 2(ryzen 7)</li>
+ <li>ThinkPad L14 Gen 1</li>
+ <li>ThinkPad X13 Gen 1</li>
+ <li>ThinkPad L13 Ge2 (i7-1165g7)</li>
+ </ul>
+
+<br></br>
+<br></br>
+
+## Ursl
+
+<ul>
+<li>[Asus ZenBook S](https://www.dns-shop.ru/product/3689326dc7373332/139-ultrabuk-asus-zenbook-s-ux393ea-hk010t-cernyj/)</li>
+<li>[Huaweit MateBook X Pro](https://www.dns-shop.ru/product/13b5c042e2e22ff2/139-ultrabuk-huawei-matebook-x-pro-machd-wfe9q-seryj/)</li>
+<li>[Honor MagicBook 14](https://www.dns-shop.ru/product/3ae7a53f91e4d760/14-ultrabuk-honor-magicbook-14-ndr-wfe9hn-seryj/characteristics/)</li>
+<li>[Asus ZenBook DUO 14](https://www.dns-shop.ru/product/b2085f5ea0f52ff1/14-noutbuk-asus-zenbook-duo-14-ux482ea-hy038t-sinij/)</li>
+<li>[Apple MacBook Pro 13](https://www.dns-shop.ru/product/97f1de2d3a913332/133-noutbuk-apple-macbook-pro-serebristyj/)</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
