@@ -50,7 +50,7 @@
 <li>[Honor MagicBook 14](https://www.dns-shop.ru/product/3ae7a53f91e4d760/14-ultrabuk-honor-magicbook-14-ndr-wfe9hn-seryj/characteristics/)</li>
 <li>[Asus ZenBook DUO 14](https://www.dns-shop.ru/product/b2085f5ea0f52ff1/14-noutbuk-asus-zenbook-duo-14-ux482ea-hy038t-sinij/)</li>
 <li>[Apple MacBook Pro 13](https://www.dns-shop.ru/product/97f1de2d3a913332/133-noutbuk-apple-macbook-pro-serebristyj/)</li>
-<li></li>
+<li>Asus ZenBook Flip S 13 [here](https://www.dns-shop.ru/product/5d6641e10f7ced20/133-noutbuk-asus-zenbook-flip-s13-oled-ux371ea-hl489w-cernyj/)</li>
 <li></li>
 <li></li>
 <li></li>
