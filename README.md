@@ -25,7 +25,7 @@
  <li> Asus ROG Zephyrus G14 AniMe Matrix </li>
  <p> Mobility, desing, screen are on the highset level, but trx 3050 on board </p>
  <li> Acer Swift X </li>
- <p> Smth like previous laptop, but costs a little bit more) </p>\
+ <p> Smth like previous laptop, but costs a little bit more) </p>
  <li> Lenovo Legion 5 </li>
  <p> 165 GHz; 15,6"; perfect for modifying, good desing, and even rtx 3060 at that price. But, it weights a lot </p>
 
