@@ -42,7 +42,7 @@
 <br></br>
 <br></br>
 
-## Ursl
+## Urls
 
 <ul>
 <li> Asus ZenBook S <br> (https://www.dns-shop.ru/product/3689326dc7373332/139-ultrabuk-asus-zenbook-s-ux393ea-hk010t-cernyj/)</li>
