@@ -20,6 +20,8 @@
  <p> Best ultrabook perfomance, really good screen, desing and mobility are on the highest level, but at thath price only 256 gb ssd storage </p>
  
  ## Between gaming and coding:
+ <li> Dream Machines RT3050-15RU21 </li>
+ <p> Good performance for that price <p>
  <li> Asus VivoBook PRO 16 </li>
  <p> ryzen 9, rtx 3050, 16gb ram adn 1tb ssd, even 120Hz here </p>
 
