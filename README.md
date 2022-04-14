@@ -46,7 +46,7 @@
 
 <ul>
 <li> Asus ZenBook S <br> (https://www.dns-shop.ru/product/3689326dc7373332/139-ultrabuk-asus-zenbook-s-ux393ea-hk010t-cernyj/)</li>
-<li> Huaweit MateBook X Pro <br> (https://www.dns-shop.ru/product/13b5c042e2e22ff2/139-ultrabuk-huawei-matebook-x-pro-machd-wfe9q-seryj/)</li>
+<li> Huawei MateBook X Pro <br> (https://www.dns-shop.ru/product/13b5c042e2e22ff2/139-ultrabuk-huawei-matebook-x-pro-machd-wfe9q-seryj/)</li>
 <li> Honor MagicBook 14 <br> (https://www.dns-shop.ru/product/3ae7a53f91e4d760/14-ultrabuk-honor-magicbook-14-ndr-wfe9hn-seryj/characteristics/)</li>
 <li> Asus ZenBook DUO 14 <br> (https://www.dns-shop.ru/product/b2085f5ea0f52ff1/14-noutbuk-asus-zenbook-duo-14-ux482ea-hy038t-sinij/)</li>
 <li> Apple MacBook Pro 13 <br> (https://www.dns-shop.ru/product/97f1de2d3a913332/133-noutbuk-apple-macbook-pro-serebristyj/)</li>
