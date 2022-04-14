@@ -57,6 +57,7 @@
 <li> Asus ZenBook Flip S 13 <br> (https://www.dns-shop.ru/product/5d6641e10f7ced20/133-noutbuk-asus-zenbook-flip-s13-oled-ux371ea-hl489w-cernyj/)</li>
 <li> HP Spectre x360 <br> (https://www.dns-shop.ru/product/18351e3a8ae9d760/135-ultrabuk-hp-spectre-x360-14-ea0008ur-cernyj/)</li>
 <li> Asus VivoBook PRO 16 <br> (https://www.dns-shop.ru/product/4963ef260f7bed20/16-noutbuk-asus-vivobook-pro-16-m7600qc-kv060-cernyj/characteristics/) </li>
+<li> Dream Machines RT3050-15RU21 <br> (https://www.dns-shop.ru/product/78eaef464b3fed20/156-noutbuk-dream-machines-rt3050-15ru21-cernyj/characteristics/) </li>
 <li> Asus ROG Zephyrus G14 <br> (https://www.dns-shop.ru/product/15955a1bbf8d2ff1/14-noutbuk-asus-rog-zephyrus-g14-anime-matrix-ga401qc-k2142t-seryj/characteristics/)</li>
 <li> Acer Swift X <br> (https://www.dns-shop.ru/product/3f75ab86d2ff2ff2/14-noutbuk-acer-swift-x-sfx14-41g-r3n5-serebristyj/)</li>
 <li> Lenovo Legion 5, but check the configuration <br> (https://shop.lenovo.ru/product/82JU000URK/)</li>
